@@ -1,0 +1,23 @@
+.product-card{
+    border: blueviolet;
+    width: 200px;
+    .dropdown-style{
+        margin-top: 17px;
+    }
+    .img-width{
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+    }
+    .input-label{
+        text-align: center;
+        width: 150px;
+    }
+
+    .btm-header-card{
+        justify-content: center;
+    }
+    .count-in-display{
+        width: 100%;
+    }
+}
